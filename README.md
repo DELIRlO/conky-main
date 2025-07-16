@@ -1,0 +1,2 @@
+# conky-main
+conky main
